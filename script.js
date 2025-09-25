@@ -5,7 +5,7 @@
 const CUSTOMER_NAME = "Planned Parenthood";
 
 // Use this for asset images
-const CUSTOMER_IMAGE = "PlannedParenthoodofGreaterOhio.png";
+const CUSTOMER_IMAGE = "CustomerImage.png";
 
 
 // Set this stuff once and Fuggedaboutit...
