@@ -2,14 +2,14 @@
 //document.addEventListener('DOMContentLoaded', (event) => {
 
 // Set these for each customer demo...
-const CUSTOMER_NAME = "Snap Diagnostics";
+const CUSTOMER_NAME = "Planned Parenthood";
 
 // Use this for asset images
-const CUSTOMER_IMAGE = "Planned Parenthoodof GreaterOhio.png";
+const CUSTOMER_IMAGE = "PlannedParenthoodofGreaterOhio.png";
 
 
 // Set this stuff once and Fuggedaboutit...
-const WXCC_TELEPHONE_NUMBER = "18477770000";
+const WXCC_TELEPHONE_NUMBER = "3305352671";
 const IMI_SMS_WEBHOOK = "https://hooks.us.webexconnect.io/events/OER349T058";
 const IMI_CALLBACK_WEBHOOK = "https://hooks.us.webexconnect.io/events/W7AGG29OMZ";
 const IMI_VIDEO_WEBHOOK = "https://hooks.us.webexconnect.io/events/JM54JGXIIJ";
